@@ -3,6 +3,10 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 *If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
 
+## A Style-Aware Content Loss for Real-time HD Style Transfer(ECCV 2018)
+state-of-art: the result is really impressive, although the idea is simple
+https://github.com/CompVis/adaptive-style-transfer
+(I'm preparing to do some experiment on it)
 
 ## *News!*
 
