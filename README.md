@@ -6,8 +6,15 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 ## A Style-Aware Content Loss for Real-time HD Style Transfer(ECCV 2018)
 state-of-art: the result is really impressive, although the idea is simple
 https://github.com/CompVis/adaptive-style-transfer
-(I'm preparing to do some experiment on it)
+however, the results are not as appealing as they showed in the paper.
+here is some of the results from pre-trained model of monet:
+![output](https://github.com/Levishery/Neural-Style-Transfer-Papers/blob/master/Places365_val_00012339_stylized.jpg)
 
+![output](https://github.com/Levishery/Neural-Style-Transfer-Papers/blob/master/Places365_val_00012554_stylized.jpg)
+
+![output](https://github.com/Levishery/Neural-Style-Transfer-Papers/blob/master/Places365_val_00012665_stylized.jpg)
+
+It seems the model exaggerated the brush strock.
 ## *News!*
 
 - [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
